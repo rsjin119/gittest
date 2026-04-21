@@ -18,4 +18,9 @@ ffff
 =============
 hahahah
 hahah2
+<<<<<<< HEAD
 master
+=======
+--------------
+kiki
+>>>>>>> 02f9309 (kiki)
